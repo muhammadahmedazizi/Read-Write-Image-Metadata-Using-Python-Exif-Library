@@ -1,0 +1,1 @@
+## In this project we will read / write metadata (exif data) of using python exif library
